@@ -3,8 +3,8 @@
  * Modified by: Naga Kandasamy
  * Date modified: September 15, 2021
  *
- * Student name(s): FIXME
- * Date: FIXME
+ * Student name(s): Quoc Thinh Vo
+ * Date: 10/15/21
  */
 
 #include "parser/parser.hh"
