@@ -1,6 +1,6 @@
 // Simple sum: z = x + y
 // Author: Naga Kandasamy
-
+// Student: Quoc T Vo
 int sum(int a, int b)
 {
 	return a + b;
